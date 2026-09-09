@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1E3A8A&height=220&section=header&text=The%20Web%20design%20project&fontSize=50&fontColor=FFFFFF&fontAlignY=38&desc=the%20professional%20design%20for%20the%20busssiness&descAlignY=58&descSize=18" width="100%"/>
+
+
 # The web design project
 <div align="center"./assets/banner.svg" alt="Luxe Decor" width="100%" />
 
