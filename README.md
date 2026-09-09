@@ -1,5 +1,12 @@
+# The web design project
+<div align="center"./assets/banner.svg" alt="Luxe Decor" width="100%" />
+
+Made with React Vite Tailwind Framer Motion GSAP Figma
+
+
+
 <div align="center">
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:8e44ad,100:d4af37&height=220&section=header&text=Luxe%20Decor&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Premium%20Decoration%20%26%20Event%20Styling%20%E2%80%94%20Digital%20Experience&descAlignY=58&descSize=18)
+
  
 [![Made with React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=white&style=for-the-badge)](https://react.dev)
 [![Vite](https://img.shields.io/badge/Vite-Build-646CFF?logo=vite&logoColor=white&style=for-the-badge)](https://vitejs.dev)
